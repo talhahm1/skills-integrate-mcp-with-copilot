@@ -1,0 +1,1 @@
+Add a full authentication system including login, signup, session management, and password changes. In student_portal, it uses PHP sessions for user management. Integrate into our FastAPI app using OAuth2 with JWT tokens, password hashing with bcrypt, and protected endpoints.
