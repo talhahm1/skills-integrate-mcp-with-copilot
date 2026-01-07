@@ -1,0 +1,1 @@
+Add additional UI/UX elements including a web interface with forms, tables, and navigation. In student_portal, it has a web-based interface with green theming and responsive design. Integrate into our FastAPI app by adding HTML/CSS/JavaScript frontend, serving static files, and creating pages for activities, signups, etc., to make it user-friendly beyond API-only.
